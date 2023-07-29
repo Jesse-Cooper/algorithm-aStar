@@ -1,5 +1,3 @@
-markdown: GRM
-
 # A* Algorithm
 
 This project demonstrates an application of the A* algorithm in an 8 directional movement system.
