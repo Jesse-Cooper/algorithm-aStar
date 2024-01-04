@@ -32,7 +32,8 @@ static const char TILE_TARGET = 'X';
 static const int COST = 1;
 
 
-struct dungeon_s {
+struct dungeon_s
+{
     char **map;
 
     uint16_t width;
